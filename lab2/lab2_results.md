@@ -17,4 +17,4 @@
 
 4. **How did the generated code change from Task 3.21 to Task 3.22?**
     - 3.21 task: It was able to output answers in a similar format as to what was in the examples.
-    - 3.22 task: It still provided functions that seemed correct, however they were lengthy and the format differed than what was in the deleted examples.
+    - 3.22 task: It still provided functions that seemed correct, however they were lengthy and the format differed than what was in the deleted examples..
